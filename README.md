@@ -359,6 +359,8 @@ Table of Contents
 
 [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
 
+[The Must Know Checklist For DevOps & Site Reliability Engineers](https://medium.com/faun/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d)
+
 **[Back to top](#table-of-contents)**
 
 

@@ -337,6 +337,8 @@ Table of Contents
 
 [Youtube Channel](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ/feed)
 
+[DevOps Tutorials](https://www.youtube.com/channel/UCQoGduji69VtJzkYRz4sB1A)
+
 **[Back to top](#table-of-contents)**
 
 ## Continuous Integration

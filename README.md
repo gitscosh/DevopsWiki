@@ -8,20 +8,19 @@ A wiki of Guides, Scripts, Tutorials related to devops
 Table of Contents
 -----------------
 
-  1. Operating Systems
-  
-      - [Linux](#linux)
+  1. [Data Science](https://github.com/Leo-G/Data-Science-Wiki/blob/master/main/AI/README.md) 
 
-  2. Command Line
+  2.  Operating Systems & Command Line
   
       - [Bash](#bash-guides-and-scripts)
       - [Tmux](#tmux)
       - [Awk](#awk)
       - [Sed](#sed)
       - [Vim (Editor)](#vim)
+      - [Linux](#linux)
 
   3. Programming
-        
+  
       - [Python](#python-guides-and-scripts)
       - [Javascript](#javascript)      
       - [C](#c)
@@ -337,6 +336,8 @@ Table of Contents
 
 [Youtube Channel](https://www.youtube.com/channel/UCvA_wgsX6eFAOXI8Rbg_WiQ/feed)
 
+[DevOps Tutorials](https://www.youtube.com/channel/UCQoGduji69VtJzkYRz4sB1A)
+
 **[Back to top](#table-of-contents)**
 
 ## Continuous Integration
@@ -358,6 +359,8 @@ Table of Contents
 [The Twelve-Factor Software-As-A-Service App building methodology](http://12factor.net/)
 
 [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
+
+[The Must Know Checklist For DevOps & Site Reliability Engineers](https://medium.com/faun/the-must-know-checklist-for-devops-system-reliability-engineers-f74c1cbf259d)
 
 **[Back to top](#table-of-contents)**
 

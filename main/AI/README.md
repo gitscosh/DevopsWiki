@@ -23,6 +23,8 @@ Summary: Best Beginners course for Machine Learning
 Excerpt from the Course:
 This course on Coursera provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas. There is also an option for Certification from Standford
 
+[Introduction to Artificial Neural Networks](https://www.kdnuggets.com/2019/10/introduction-artificial-neural-networks.html/?utm_source=Techarena51.com&utm_medium=sem&utm_content=Data-Science-wiki) 
+
 ## Advance
 
 [R for DataScience Book](https://r4ds.had.co.nz/?utm_source=Techarena51.com&utm_medium=sem&utm_content=Data-Science-wiki)

@@ -8,20 +8,19 @@ A wiki of Guides, Scripts, Tutorials related to devops
 Table of Contents
 -----------------
 
-  1. Operating Systems
-  
-      - [Linux](#linux)
+  1. [Data Science](https://github.com/Leo-G/Data-Science-Wiki/blob/master/main/AI/README.md) 
 
-  2. Command Line
+  2.  Operating Systems & Command Line
   
       - [Bash](#bash-guides-and-scripts)
       - [Tmux](#tmux)
       - [Awk](#awk)
       - [Sed](#sed)
       - [Vim (Editor)](#vim)
+      - [Linux](#linux)
 
   3. Programming
-        
+  
       - [Python](#python-guides-and-scripts)
       - [Javascript](#javascript)      
       - [C](#c)
